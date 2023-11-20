@@ -4,11 +4,5 @@
  * @return {number[]}
  */
 var shuffle = function(nums, n) {
-    const shuffledArray = [];
-    
-    for (let i = 0; i < n; i++) {
-        shuffledArray.push(nums[i], nums[n + i]);
-    }
-    
-    return shuffledArray;
+    return nums.slice(0, n).flatMap((num, index) => [num, nums[n + index]]);
 };
