@@ -4,11 +4,5 @@
  * @return {number}
  */
 var numberOfEmployeesWhoMetTarget = function(hours, target) {
-    var op = 0;
-    for (i = 0; i < hours.length; i++){
-        if (hours[i] >= target){
-            op++;
-        }
-    }
-    return op;
+    return hours.reduce((acc, curr) => acc + (curr >= target ? 1 : 0), 0);
 };
