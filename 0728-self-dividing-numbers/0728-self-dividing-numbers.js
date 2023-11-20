@@ -8,8 +8,6 @@ var selfDividingNumbers = function(left, right) {
     for (i = left; i <= right; i++){
         if (SDN(i) === true){
             output.push(i)
-        }else{
-            console.log('no');
         }
     }
     return output;
