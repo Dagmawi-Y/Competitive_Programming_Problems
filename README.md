@@ -1,2 +1,2 @@
 # Competitive_Programming_Problems
-Solved DSA problems from github
+Solved DSA problems from leetcode
