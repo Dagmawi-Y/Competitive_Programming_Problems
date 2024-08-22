@@ -5,15 +5,23 @@ class Solution(object):
         :rtype: str
         """
         def is_nice(sub):
-            return all(ch.lower() in sub and ch.upper() in sub for ch in set(sub))
-        
+            lower = set()
+            upper = set()
+            for ch in sub:
+                if ch.islower():
+                    lower.add(ch)
+                elif ch.isupper():
+                    upper.add(ch)
+            return all(ch.upper() in upper for ch in lower) and all(ch.lower() in lower for ch in upper)
+
+        max_len = 0
         longest = ""
-        n = len(s)
-        
-        for i in range(n):
-            for j in range(i + 1, n + 1):
+
+        for i in range(len(s)):
+            for j in range(i + 1, len(s) + 1):
                 substr = s[i:j]
-                if is_nice(substr) and len(substr) > len(longest):
+                if is_nice(substr) and len(substr) > max_len:
+                    max_len = len(substr)
                     longest = substr
-        
+
         return longest
