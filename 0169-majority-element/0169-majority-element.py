@@ -1,15 +1,13 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        count = 0
-        candidate = None
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        freq = {}
+        half = len(nums) / 2
+        for i in nums:
+            if i in freq:
+                freq[i] += 1
+            else:
+                freq[i] = 1
+        for i in freq:
+            if freq[i] > half:
+                return i
         
-        for num in nums:
-            if count == 0:
-                candidate = num
-            count += (1 if num == candidate else -1)
-        
-        return candidate
