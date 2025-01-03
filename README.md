@@ -14,6 +14,7 @@ Solved DSA problems from leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0189-rotate-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
 |  |
@@ -60,5 +61,6 @@ Solved DSA problems from leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
