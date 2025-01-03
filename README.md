@@ -16,6 +16,7 @@ Solved DSA problems from leetcode
 | [0169-majority-element](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
@@ -29,6 +30,7 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +75,12 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
