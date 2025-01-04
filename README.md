@@ -31,6 +31,7 @@ Solved DSA problems from leetcode
 | ------- |
 | [0169-majority-element](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,10 +66,12 @@ Solved DSA problems from leetcode
 ## String
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting Sort
@@ -83,4 +86,8 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
