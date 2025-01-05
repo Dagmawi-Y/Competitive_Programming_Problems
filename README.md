@@ -8,6 +8,7 @@ Solved DSA problems from leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -28,6 +29,7 @@ Solved DSA problems from leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -57,6 +59,7 @@ Solved DSA problems from leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,4 +102,12 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
