@@ -81,6 +81,7 @@ Solved DSA problems from leetcode
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0058-length-of-last-word) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
