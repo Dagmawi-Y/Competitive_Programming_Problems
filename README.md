@@ -21,6 +21,7 @@ Solved DSA problems from leetcode
 | [0238-product-of-array-except-self](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -83,6 +84,7 @@ Solved DSA problems from leetcode
 | [0013-roman-to-integer](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0058-length-of-last-word) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -90,6 +92,7 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0238-product-of-array-except-self) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2465-shifting-letters-ii) |
