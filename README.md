@@ -36,6 +36,7 @@ Solved DSA problems from leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -92,6 +93,7 @@ Solved DSA problems from leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
