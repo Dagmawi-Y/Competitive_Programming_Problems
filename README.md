@@ -39,6 +39,7 @@ Solved DSA problems from leetcode
 | [0125-valid-palindrome](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Solved DSA problems from leetcode
 | [0055-jump-game](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Solved DSA problems from leetcode
 | [0068-text-justification](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0392-is-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
