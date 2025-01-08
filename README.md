@@ -27,6 +27,7 @@ Solved DSA problems from leetcode
 | [2358-number-of-ways-to-split-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Solved DSA problems from leetcode
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,13 +138,23 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0068-text-justification) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
