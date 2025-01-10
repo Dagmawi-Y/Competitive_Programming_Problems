@@ -23,6 +23,7 @@ Solved DSA problems from leetcode
 | [0238-product-of-array-except-self](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0952-word-subsets](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -50,6 +51,7 @@ Solved DSA problems from leetcode
 | [0013-roman-to-integer](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0952-word-subsets](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
@@ -101,6 +103,7 @@ Solved DSA problems from leetcode
 | [0125-valid-palindrome](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0392-is-subsequence) |
+| [0952-word-subsets](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
