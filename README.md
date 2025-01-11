@@ -22,6 +22,7 @@ Solved DSA problems from leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -125,6 +126,7 @@ Solved DSA problems from leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -184,4 +186,9 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
