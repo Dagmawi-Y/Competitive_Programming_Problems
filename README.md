@@ -52,6 +52,7 @@ Solved DSA problems from leetcode
 | [0169-majority-element](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0952-word-subsets](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
@@ -66,6 +67,7 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0169-majority-element) |
+| [1502-construct-k-palindrome-strings](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1502-construct-k-palindrome-strings) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Solved DSA problems from leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0135-candy) |
+| [1502-construct-k-palindrome-strings](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1502-construct-k-palindrome-strings) |
 ## String
 |  |
 | ------- |
@@ -104,6 +107,7 @@ Solved DSA problems from leetcode
 | [0151-reverse-words-in-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
