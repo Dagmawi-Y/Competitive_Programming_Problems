@@ -100,6 +100,7 @@ Solved DSA problems from leetcode
 | [0134-gas-station](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0135-candy) |
 | [1502-construct-k-palindrome-strings](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Solved DSA problems from leetcode
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -154,6 +156,7 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0042-trapping-rain-water) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
