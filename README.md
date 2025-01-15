@@ -103,6 +103,7 @@ Solved DSA problems from leetcode
 | [0135-candy](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0135-candy) |
 | [1502-construct-k-palindrome-strings](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2509-minimize-xor) |
 ## String
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Solved DSA problems from leetcode
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/2509-minimize-xor) |
 ## Stack
 |  |
 | ------- |
