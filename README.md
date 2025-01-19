@@ -26,6 +26,7 @@ Solved DSA problems from leetcode
 | [0238-product-of-array-except-self](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1524-string-matching-in-an-array) |
@@ -211,6 +212,7 @@ Solved DSA problems from leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -219,10 +221,12 @@ Solved DSA problems from leetcode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Dagmawi-Y/Competitive_Programming_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
